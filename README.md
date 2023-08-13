@@ -5,7 +5,7 @@ I'm currently reading this book. The summary will likely be updated on a monthly
 ### Reason for this Summary
 Based on past experience, I found it very helpful to have a summary of all the definitions, theorems etc. used in a lecture or book. This aids in looking up the most important material quickly when solving exercises or for future reference in general.
 
-Definitions, lemmas, and theorems are abbreviated by D., L., and T., respectively. The numbering doesn't follow the book's numbering. References that use the numbering from the book will be indicated.
+Definitions, properties, lemmas, and theorems are abbreviated by D., P., L., and T., respectively. The numbering doesn't follow the book's numbering. References that use the numbering from the book will be indicated.
 
 ### Disclaimer
 No guarantee is made on the correctness of the material in this summary.
